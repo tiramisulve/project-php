@@ -175,6 +175,7 @@ ul li a:hover {
 }
 
 .image img {
+  margin-top: 8rem;
   width: min(20rem, 90%);
   border-radius: 20%;
 }
@@ -395,8 +396,7 @@ ul li a:hover {
     grid-template-columns: repeat(1, 1fr);
   }
 
-  .image img {margin-top: 8rem;
-    
+  .image img {
     grid-area: 1/1/2/2;
   }
 
